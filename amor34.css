@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .noticia {
+    border: 1px solid #ddd;
+    margin: 20px;
+    padding: 15px;
+  }
+  
+  .leer-mas {
+    display: block;
+    text-align: right;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+  }
